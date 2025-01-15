@@ -1,8 +1,13 @@
 ---
-title: "task1"
-author: Scott Kishpaugh
-format: html
-editor: visual
+title: "Testing"
+execute:
+  keep-md: true
+  df-print: paged
+  warning: false
+format:
+  html:
+    code-fold: true
+    code-line-numbers: true
 ---
 
 ```{r}
